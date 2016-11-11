@@ -1,5 +1,7 @@
-# s40523143.github.io
+# 2016fallcpa
+2016fall 計算機程式課程一甲評量倉儲
 
-https://mdecourse.github.io/2016fllcadp_hw
+https://mdecourse.github.io/2016fallcpa
 
-https://mdecourse.github.io/201fll6cadp_hw/blog
+https://mdecourse.github.io/2016fallcpa/blog
+
